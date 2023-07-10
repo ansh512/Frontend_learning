@@ -1,4 +1,4 @@
-# Notes Web App
+# MemoMate
 This is a simple Notes Web App built with React. It allows users to create, edit, and delete notes, and stores them in the browser's local storage.
 
 # Installation
